@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Romania.</h3>
 
 
-- 🔭 I’m currently working on [Personal Budget](https://github.com/RobertOltean314/PersonalBudget) and [CV](https://github.com/RobertOltean314/CV)
+- 🔭 I’m currently working on [Personal Budget](https://github.com/RobertOltean314/PersonalBudget) and [StockMarket](https://github.com/RobertOltean314/StockMarket)
 
 - 🌱 I’m currently learning **React, Node.js, Express.js**
 
