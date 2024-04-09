@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Romania.</h3>
 
 
-- 🔭 I’m currently working on [MovieMaxDB](https://github.com/BatranuVali/MovieMaxDB) and [StockMarket](https://github.com/RobertOltean314/StockMarket)
+- 🔭 I’m currently working on [MovieMaxDB](https://github.com/BatranuVali/MovieMaxDB) and [StockMarket](https://github.com/RobertOltean314/StockMarketApplication)
 
 - 🌱 I’m currently learning **React, Node.js, Express.js**
 
