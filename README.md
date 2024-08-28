@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **React & **.NET, 
+- 🌱 I’m currently learning React & .NET, 
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobertOltean314?tab=repositories](https://github.com/RobertOltean314?tab=repositories)
 
