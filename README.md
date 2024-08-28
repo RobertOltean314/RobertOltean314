@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A passionate developer from Romania.</h3>
+<h3 align="center">A passionate developer</h3>
 
-
-- 🔭 I’m currently working on [MovieMaxDB](https://github.com/BatranuVali/MovieMaxDB) and [StockMarket](https://github.com/RobertOltean314/StockMarketApplication)
-
-- 🌱 I’m currently learning **React, Node.js, Express.js**
+- 🌱 I’m currently learning **React & **.NET, 
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobertOltean314?tab=repositories](https://github.com/RobertOltean314?tab=repositories)
 
