@@ -41,7 +41,7 @@
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/robert-oltean-0888b9251/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="mailto:olteanrobertadrian314@gmail.com">
