@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOltean314&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertoltean314&show_icons=true&locale=en&layout=compact" alt="robertoltean314" /></p>
 </div>
 
 <h3 align="center">Let's Connect!</h3>
