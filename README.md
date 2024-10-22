@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **React**, **.NET**, and **Blockchain Development**.
 - 👨‍💻 All of my projects are available on [<img src="https://img.icons8.com/fluent/30/000000/github.png" alt="GitHub"/> GitHub](https://github.com/RobertOltean314?tab=repositories)
-- 📄 Learn more about me at [<img src="https://img.icons8.com/color/30/000000/internet.png" alt="Website"/> robertoltean.ro](https://www.robertoltean.ro/)
 - 📫 Reach me at **olteanrobertadrian314@gmail.com**
-- 
+  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <strong>Frontend:</strong>
