@@ -10,4 +10,5 @@
 - **[real-time-chat](https://github.com/RobertOltean314/real-time-chat)**: A React.js chat app, powered by WebSockets for instant communication.
 
 ## ⚡ Quick Stats
-![RobertOltean314's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertOltean314&show_icons=true&theme=radical)
+![RobertOltean314's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertOltean314&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOltean314&layout=compact&theme=radical)  
